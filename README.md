@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @forsation
+- 👀 I’m interested in programming and hacking
+- 🌱 I’m currently learning python ( data science )
+- 💞️ I’m looking to collaborate on app development
+- 📫 How to reach me gmail ( samvidghosh@gmail.com )
