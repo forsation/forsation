@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @forsation
+- 👋 Hi, I’m @macz
 - 👀 I’m interested in programming and hacking
 - 🌱 I’m currently learning python ( data science )
 - 💞️ I’m looking to collaborate on app development
